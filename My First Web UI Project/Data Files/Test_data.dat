@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>TestData for TestRedditFaildLogin test</description>
+   <name>Test_data</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>SEMICOLON</csvSeperator>
+   <dataFileGUID>0cb91853-23fd-45b6-ada5-b88bb2830376</dataFileGUID>
+   <dataSourceUrl>C:\Users\psochier\Documents\testData.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

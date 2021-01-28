@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>polygon</name>
+   <tag></tag>
+   <elementGuidId>075a157a-1d3e-4e82-b1fc-77e194a5c63c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg._14dkERGUnSwisNWFcFX-0T > polygon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>polygon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>inherit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>points</name>
+      <type>Main</type>
+      <value>11.649 9.882 18.262 3.267 16.495 1.5 9.881 8.114 3.267 1.5 1.5 3.267 8.114 9.883 1.5 16.497 3.267 18.264 9.881 11.65 16.495 18.264 18.262 16.497</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SHORTCUT_FOCUSABLE_DIV&quot;)/div[3]/div[@class=&quot;_1UtFUrE2ijAe5ba5uPgcfQ&quot;]/div[@class=&quot;_34uo64r1j-TcpBGXAQcZJ1&quot;]/button[@class=&quot;_1ryinm9ofYAx_k9dpdCbpq&quot;]/svg[@class=&quot;_14dkERGUnSwisNWFcFX-0T&quot;]/polygon[1]</value>
+   </webElementProperties>
+</WebElementEntity>

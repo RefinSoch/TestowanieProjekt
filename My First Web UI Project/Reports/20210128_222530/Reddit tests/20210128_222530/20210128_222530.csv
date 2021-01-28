@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Reddit tests,Chrome 87.0.4280.141,,,2021-01-28 22:25:39,2021-01-28 22:27:02,"1m - 22,892s",PASSED
+,,,,,,,
+Test Cases/TestRedditFaildLogin,Chrome 87.0.4280.141,,,2021-01-28 22:25:42,2021-01-28 22:27:02,"1m - 20,582s",PASSED
+"openBrowser("""")",Chrome 87.0.4280.141,,,2021-01-28 22:25:43,2021-01-28 22:25:48,"5,001s",PASSED
+navigateToUrl(webPage),Chrome 87.0.4280.141,,,2021-01-28 22:25:48,2021-01-28 22:26:00,"11,705s",PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Page_reddit the front page of the internet/div_I Agree__1DK52RbaamLOWw5UPaht_S _3Ig_Es_1cdf1d""), 0)",Chrome 87.0.4280.141,,,2021-01-28 22:26:00,2021-01-28 22:26:10,"10,422s",PASSED
+navigateToUrl(webPage),Chrome 87.0.4280.141,,,2021-01-28 22:26:10,2021-01-28 22:26:21,"11,135s",PASSED
+"click(findTestObject(""Object Repository/Page_reddit the front page of the internet/a_Log In""))",Chrome 87.0.4280.141,,,2021-01-28 22:26:21,2021-01-28 22:26:29,"8,057s",PASSED
+"verifyElementNotVisible(findTestObject(""Object Repository/Page_reddit the front page of the internet/div_Incorrect username or password""), STOP_ON_FAILURE)",Chrome 87.0.4280.141,,,2021-01-28 22:26:29,2021-01-28 22:26:32,"2,525s",PASSED
+"logins = findTestData(""Test_data"")",Chrome 87.0.4280.141,,,2021-01-28 22:26:32,2021-01-28 22:26:32,"0,028s",PASSED
+"for ([row = 1, row <= logins.getRowNumbers(), (row++)])",Chrome 87.0.4280.141,,,2021-01-28 22:26:32,2021-01-28 22:27:00,"27,734s",PASSED
+closeBrowser(),Chrome 87.0.4280.141,,,2021-01-28 22:27:00,2021-01-28 22:27:02,"2,440s",PASSED
