@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestRedditFaildLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27e57e2b-d0d5-40b7-99d4-baa72603091d</testCaseGuid>
+   <variable>
+      <defaultValue>'www.reddit.com'</defaultValue>
+      <description></description>
+      <id>8444ea93-92ac-4d22-8a2c-53f97f94738d</id>
+      <masked>false</masked>
+      <name>webPage</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b80a9a83-03ba-4389-b687-a3634b54e16c</id>
+      <masked>false</masked>
+      <name>Login</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a4fe8cf3-173b-41b8-acb4-eccafcf09501</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
